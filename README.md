@@ -1,5 +1,5 @@
-Restful Objects Vagrant
-=======================
+Restful Objects - Vagrant setup
+===============================
 
 This project is a simple Vagrant setup file to bootsrap easily a VM with the [Restful Objects for Ruby framework](http://github.com/vizcay/RestfulObjectsRuby) installed.
 
