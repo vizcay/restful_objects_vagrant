@@ -3,6 +3,10 @@ Restful Objects Vagrant
 
 This project is a simple Vagrant setup file to bootsrap easily a VM with the [Restful Objects for Ruby framework](http://github.com/vizcay/RestfulObjectsRuby) installed.
 
+### Why?
+
+Because Ruby and Linux is not the most common server technology related to Restful Objects, so I wanted a simple way for programmers to bootstrap a server and play with it.
+
 ### Instructions
 
 1. Install Vagrant for your operating system (Linux, Mac & Windows supported):
