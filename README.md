@@ -28,7 +28,7 @@ This project is a simple Vagrant setup file to bootsrap easily a VM with the [Re
   - RubyGems & Bundler
   - Restulf Objects for Ruby (latest version)
 
-4. To start a server create some restful_object_script in your project root, and to start the framework execute:
+4. To start a server create a ruby file in your project root, and to start the framework execute:
 
   ```shell
   vagrant ssh -c "cd /vagrant && restful_server restful_object_script.rb"
