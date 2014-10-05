@@ -22,11 +22,11 @@ This project is a simple Vagrant setup file to bootsrap easily a VM with the [Re
   vagrant up
   ```
 
-  This will take a few minutes, but after the VM will be provisioned with:
+  This will take a few minutes, but after a while, the VM will be provisioned with:
   - Ubuntu 14.04 32bits
   - Ruby 1.9.3
   - RubyGems & Bundler
-  - Restulf Objects for Ruby (latest version)
+  - Restful Objects for Ruby (latest version)
 
 4. To start a server create a ruby file in your project root, and to init the framework execute:
 
